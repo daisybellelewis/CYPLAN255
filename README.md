@@ -130,12 +130,14 @@ The following books and websites may be helpful resources, and we will draw mate
 The topics covered by this course are organized into the following seven (7) modules:
 
 1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/CYPLAN255#module-1-fundamentals-of-programming)
-2. Intro to Data Analysis in Python
+2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-2-intro-to-data-analysis-in-python)
 3. Intro to Data Visualization
 4. APIs + Open Data
 5. Working with Geospatial Data
 6. Visualizing Spatial Data
 7. Statistical Analysis + Machine Learning
+
+----
 
 #### MODULE 1: FUNDAMENTALS OF PROGRAMMING
 
