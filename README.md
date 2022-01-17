@@ -129,7 +129,7 @@ The following books and websites may be helpful resources, and we will draw mate
 
 The topics covered by this course are organized into the following seven (7) modules:
 
-1. Fundamentals of Programming
+1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/CYPLAN255#module-1-fundamentals-of-programming)
 2. Intro to Data Analysis in Python
 3. Intro to Data Visualization
 4. APIs + Open Data
