@@ -146,262 +146,220 @@ The topics covered by this course are organized into the following seven (7) mod
     - Create a personal GitHub account using your Berkeley e-mail address.
     - Via bCourses, submit links to three (3) examples of interesting public/open datasets that you think you or your fellow students might be interested in exploring in the context of this class. In 2-3 sentences, describe their relevance to topics in transportation, housing, land use, urban design, etc. 2-3 sentences. Show us something we haven&#39;t seen before – the American Community Survey doesn&#39;t count!
   - Readings
-      - Why Python:
-        - [http://lorenabarba.com/blog/why-i-push-for-python/](http://lorenabarba.com/blog/why-i-push-for-python/)
-        - [https://www.codefellows.org/blog/5-reasons-why-python-is-powerful-enough-for-google](https://www.codefellows.org/blog/5-reasons-why-python-is-powerful-enough-for-google)
-      - Chapter 1 of [Think Python](https://greenteapress.com/wp/think-python-2e/)
-      - Wilson et al. &quot;Best practices for scientific computing,&quot; PLOS Biology, 2014. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
+    - Why Python:
+      - [http://lorenabarba.com/blog/why-i-push-for-python/](http://lorenabarba.com/blog/why-i-push-for-python/)
+      - [https://www.codefellows.org/blog/5-reasons-why-python-is-powerful-enough-for-google](https://www.codefellows.org/blog/5-reasons-why-python-is-powerful-enough-for-google)
+    - Chapter 1 of [Think Python](https://greenteapress.com/wp/think-python-2e/)
+    - Wilson et al. &quot;Best practices for scientific computing,&quot; PLOS Biology, 2014. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
 
 - **Mon, Jan 24 Intro to the Command-line** <br>
   Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
 
-- Assignments
-  - Create a CYPLAN255 GitHub repo and push your first commit.
+  - Assignments
+    - Create a CYPLAN255 GitHub repo and push your first commit.
 
-- Readings:
-  - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
-  - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+  - Readings:
+    - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
+    - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
   - **Weds, Jan 26 Git and GitHub** <br>
   Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
 
+    - Assignments
+      - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
+
+    - Readings
+      - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+
+#### MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON
+
+  - **Mon, Jan 31 Intro to Python with Jupyter Notebooks** <br>
+  Notebooks and Python kernels; variables; expressions; built-in data types and structures
+
   - Assignments
-    - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
+    - Assignment 1 released (due Sun, Feb 6)
 
   - Readings
-    - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+    - Chapter 3 of [Python for Data Analysis](https://github.com/wesm/pydata-book)
+    - Chapters 2, 4 of[Dive Into Python 3](http://www.diveintopython3.net/)
+    - Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
 
-**MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON**
+  - **Wed, Feb 2 Programming Logic** <br>
+  Control flow in Python (conditional logic, loops, functions)
 
-**Mon, Jan 31 Intro to Python with Jupyter Notebooks**
+  - Readings
+    - Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
+    - Chapters 1, 7 of[Dive Into Python 3](http://www.diveintopython3.net/)
 
-Notebooks and Python kernels; variables; expressions; built-in data types and structures
+  - **Mon, Feb 7 Data Analysis in Python**<br>
+  NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering;
 
-Assignments
+  - Assignments
+    - Assignment 2 released (due Sun, Feb 13)
 
-- Assignment 1 released (due Sun, Feb 6)
+  - Readings
+    - Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
-Readings
+  - **Wed, Feb 9 More Pandas** <br>
+  Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
 
-- Chapter 3 of [Python for Data Analysis](https://github.com/wesm/pydata-book)
-- Chapters 2, 4 of[Dive Into Python 3](http://www.diveintopython3.net/)
-- Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
+  - Readings
+    - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
-**Wed, Feb 2 Programming Logic**
+#### MODULE 3: INTRO TO DATA VISUALIZATION
 
-Control flow in Python (conditional logic, loops, functions)
+- **Mon, Feb 14 💘 Data Visualization - Pt. I** <br>
+  Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
-Readings
+  - Assignments
+    - Find three (3) examples of interesting data visualizations and describe in 2-3 sentences what makes each of them good, bad, or misleading. Be prepared to talk about them in class.
 
-- Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
-- Chapters 1, 7 of[Dive Into Python 3](http://www.diveintopython3.net/)
+  - Readings
+    - Chapter 1 of _Envisioning Information_ (Tufte, 1990)
+    - Chapter 9 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
+    - [Seaborn](https://seaborn.pydata.org/tutorial.html) tutorial/documentation
 
-**Mon, Feb 7 Data Analysis in Python**
+- **Wed, Feb 16 Data Visualization - Pt. II** <br>
+  Interactive plots, widgets, and apps.
 
-NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering;
+  - Assignments
+    - Assignment 3 released (due Tue, Feb 22)
 
-Assignments
+  - Readings
+    - Interactive Bokeh [tutorials](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-th9hef96/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
+    - [Plotly](https://plotly.com/python/) tutorial/documentation
+    - Streamlit [tutorial](https://medium.com/analytics-vidhya/web-application-in-10-minutes-with-streamlit-99685e3350e0)
 
-- Assignment 2 released (due Sun, Feb 13)
+- **Mon, Feb 21** _NO CLASS_ _(President&#39;s Day)_
 
-Readings
+#### MODULE 4: OPEN DATA AND APIs
 
-- Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)
+- **Wed, Feb 23 Intro to APIs** <br>
+  What&#39;s in an API; performing queries; authentication; Socrata;
 
-**Wed, Feb 9 More Pandas**
+  - Readings
+    - Red Hat guide to APIs: [here](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
+    - Read the Socrata [getting started](https://dev.socrata.com/consumers/getting-started.html) page
+    - Look over some of the resources that companies and public agencies have put together for third-party software developers:
+      - [BART](http://api.bart.gov/docs/overview/index.aspx)
+      - [Twitter](https://dev.twitter.com/overview/documentation)
+      - [Google Maps](https://developers.google.com/maps/get-started/)
+      - [Urban Institute](https://educationdata.urban.org/documentation/)
 
-Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
+- **Mon, Feb 28 APIs and Beyond** <br>
+  Geocoding; web scraping; parsing XML
 
-Readings
+  - Readings
+    - [https://guides.library.illinois.edu/Geocoding](https://guides.library.illinois.edu/Geocoding)
 
-- Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
+#### MODULE 5: WORKING WITH GEOSPATIAL DATA
 
-**MODULE 3: INTRO TO DATA VISUALIZATION**
+- **Wed, Mar 2 Intro to Geospatial Data Analysis** <br>
+  Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
 
-**Mon, Feb 14 💘 Data Visualization - Pt. I**
+  - Assignments
+    - Get familiar with OpenStreetMap by reading about it [here](https://wiki.osmfoundation.org/wiki/Main_Page), and contribute at least one (1) change to a Humanitarian OpenStreetMap (HOTOSM) project by following the HOTOSM [quickstart guide](https://tasks.hotosm.org/learn/quickstart).
 
-Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
+  - Readings
+    - [mapschool.io](https://mapschool.io/)
+    - Part I of [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/00_toc.html)
+    - [https://wiki.osmfoundation.org/wiki/Main\_Page](https://wiki.osmfoundation.org/wiki/Main_Page)
+    - [https://tasks.hotosm.org/learn/quickstart](https://tasks.hotosm.org/learn/quickstart)
 
-Assignments
+- **Mon, Mar 7 FOSS tools for Geospatial Data Analysis** <br>
+  Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
 
-- Find three (3) examples of interesting data visualizations and describe in 2-3 sentences what makes each of them good, bad, or misleading. Be prepared to talk about them in class.
+  - Assignment
+    - Project proposal assignment released (Due Sun, Mar 13)
 
-Readings
+  - Readings
+    - [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
+    - [https://www.osgeo.org/about/what-is-open-source/](https://www.osgeo.org/about/what-is-open-source/)
+    - [https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html](https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html)
+    - Chapters [6](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html), [8](https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html), and [9](https://geographicdata.science/book/notebooks/09_spatial_inequality.html) of Geographic Data Science with Python
 
-- Chapter 1 of _Envisioning Information_ (Tufte, 1990)
-- Chapter 9 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
-- [Seaborn](https://seaborn.pydata.org/tutorial.html) tutorial/documentation
+- **Wed, Mar 9 Intro to Network Analysis** <br>
+  Graph theory;GTFS; Python tools for working with networks
 
-**Wed, Feb 16 Data Visualization - Pt. II**
+  - Readings
+    - Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
+    - Blanchard SD, Waddell P. Assessment of Regional Transit Accessibility in the San Francisco Bay Area of California with UrbanAccess. _Transportation Research Record_. 2017;2654(1):45-54. [https://doi.org/10.3141%2F2654-06](https://doi.org/10.3141%2F2654-06)
+    - Foti, Fletcher, Paul Waddell, and Dennis Luxen. &quot;A generalized computational framework for accessibility: from the pedestrian to the metropolitan scale.&quot; _Proceedings of the 4th TRB Conference on Innovations in Travel Modeling. Transportation Research Board_. 2012. [http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-A/0117-000062.pdf](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-A/0117-000062.pdf)
+    - [https://www.mapzen.com/blog/animating-transitland/](https://www.mapzen.com/blog/animating-transitland/)
+    - Li, Yang, and Wei &quot;David&quot; Fan. &quot;Modeling and evaluating public transit equity and accessibility by integrating general transit feed specification data: Case study of the City of Charlotte.&quot; _Journal of Transportation Engineering, Part A: Systems_ 146.10 (2020): 04020112. Available [here](https://ascelibrary.org/doi/pdf/10.1061/JTEPBS.0000426?casa_token=FXHaQKmwO5MAAAAA:u4NJhaPXXdCbBEut0qdg7dd1d3Bahu6ygF83dWSOU2eBih0S3PrYtvEc7F11p-a7SNk7sKwg).
 
-Interactive plots, widgets, and apps.
+#### MODULE 6: VISUALIZING GEOSPATIAL DATA**
 
-Assignments
+- **Mon, Mar 14 Effective Communication of Spatial Data**
+  Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
 
-- Assignment 3 released (due Tue, Feb 22)
+  - Readings
+    - [https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
+    - [https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
+    - Wong, David WS. &quot;The modifiable areal unit problem (MAUP).&quot; _WorldMinds: Geographical perspectives on 100 problems_. Springer, Dordrecht, 2004. 571-575. [https://doi.org/10.1016/B978-008044910-4.00475-2](https://sci-hubtw.hkvisa.net/10.1016/b978-008044910-4.00475-2)
 
-Readings
+- **Wed, Mar 16 Building Static Maps in Python**
+  Survey of Python libraries for plotting geospatial data on a map
 
-- Interactive Bokeh [tutorials](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-th9hef96/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
-- [Plotly](https://plotly.com/python/) tutorial/documentation
-- Streamlit [tutorial](https://medium.com/analytics-vidhya/web-application-in-10-minutes-with-streamlit-99685e3350e0)
+  - Readings
+    - Norwood, Carla; Cumming, Gabriel (2012). Making Maps That Matter: Situating GIS within Community Conversations about Changing Landscapes. Cartographica: The International Journal for Geographic Information and Geovisualization, 47(1), 2–17. [doi:10.3138/carto.47.1.2](https://sci-hubtw.hkvisa.net/10.3138/carto.47.1.2)
+    - Chapter [5](https://geographicdata.science/book/notebooks/05_choropleth.html) of Geographic Data Science with Python
 
-**Mon, Feb 21** _NO CLASS__(President&#39;s Day)_
+- **Mon, Mar 21** _NO CLASS (Spring Break)_
 
-**MODULE 4: OPEN DATA AND APIs**
+- **Wed, Mar 23** _NO CLASS (Spring Break)_
 
-**Wed, Feb 23 Intro to APIs**
+- **Mon, Mar 28 Building Interactive Maps** <br>
+  Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
-What&#39;s in an API; performing queries; authentication; Socrata;
+  - Readings
+    - [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
+    - [https://www.axismaps.com/guide/what-is-a-web-map](https://www.axismaps.com/guide/what-is-a-web-map)
+    - [https://www.axismaps.com/guide/should-a-map-be-interactive](https://www.axismaps.com/guide/should-a-map-be-interactive)
+    - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
 
-Readings
-
-- Red Hat guide to APIs: [here](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
-- Read the Socrata [getting started](https://dev.socrata.com/consumers/getting-started.html) page
-- Look over some of the resources that companies and public agencies have put together for third-party software developers:
-  - [BART](http://api.bart.gov/docs/overview/index.aspx)
-  - [Twitter](https://dev.twitter.com/overview/documentation)
-  - [Google Maps](https://developers.google.com/maps/get-started/)
-  - [Urban Institute](https://educationdata.urban.org/documentation/)
-
-**Mon, Feb 28 APIs and Beyond**
-
-Geocoding; web scraping; parsing XML
-
-Readings
-
-- [https://guides.library.illinois.edu/Geocoding](https://guides.library.illinois.edu/Geocoding)
-
-**MODULE 5: WORKING WITH GEOSPATIAL DATA**
-
-**Wed, Mar 2 Intro to Geospatial Data Analysis**
-
-Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
-
-Assignments
-
-- Get familiar with OpenStreetMap by reading about it [here](https://wiki.osmfoundation.org/wiki/Main_Page), and contribute at least one (1) change to a Humanitarian OpenStreetMap (HOTOSM) project by following the HOTOSM [quickstart guide](https://tasks.hotosm.org/learn/quickstart).
-
-Readings
-
-- [mapschool.io](https://mapschool.io/)
-- Part I of [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/00_toc.html)
-- [https://wiki.osmfoundation.org/wiki/Main\_Page](https://wiki.osmfoundation.org/wiki/Main_Page)
-- [https://tasks.hotosm.org/learn/quickstart](https://tasks.hotosm.org/learn/quickstart)
-
-**Mon, Mar 7 FOSS tools for Geospatial Data Analysis**
-
-Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
-
-Assignment
-
-- Project proposal assignment released (Due Sun, Mar 13)
-
-Readings
-
-- [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
-- [https://www.osgeo.org/about/what-is-open-source/](https://www.osgeo.org/about/what-is-open-source/)
-- [https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html](https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html)
-- Chapters [6](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html), [8](https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html), and [9](https://geographicdata.science/book/notebooks/09_spatial_inequality.html) of Geographic Data Science with Python
-
-**Wed, Mar 9 Intro to Network Analysis**
-
-Graph theory;GTFS; Python tools for working with networks
-
-Readings
-
-- Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
-- Blanchard SD, Waddell P. Assessment of Regional Transit Accessibility in the San Francisco Bay Area of California with UrbanAccess. _Transportation Research Record_. 2017;2654(1):45-54. [https://doi.org/10.3141%2F2654-06](https://doi.org/10.3141%2F2654-06)
-- Foti, Fletcher, Paul Waddell, and Dennis Luxen. &quot;A generalized computational framework for accessibility: from the pedestrian to the metropolitan scale.&quot; _Proceedings of the 4th TRB Conference on Innovations in Travel Modeling. Transportation Research Board_. 2012. [http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-A/0117-000062.pdf](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-A/0117-000062.pdf)
-- [https://www.mapzen.com/blog/animating-transitland/](https://www.mapzen.com/blog/animating-transitland/)
-- Li, Yang, and Wei &quot;David&quot; Fan. &quot;Modeling and evaluating public transit equity and accessibility by integrating general transit feed specification data: Case study of the City of Charlotte.&quot; _Journal of Transportation Engineering, Part A: Systems_ 146.10 (2020): 04020112. Available [here](https://ascelibrary.org/doi/pdf/10.1061/JTEPBS.0000426?casa_token=FXHaQKmwO5MAAAAA:u4NJhaPXXdCbBEut0qdg7dd1d3Bahu6ygF83dWSOU2eBih0S3PrYtvEc7F11p-a7SNk7sKwg).
-
-**MODULE 6: VISUALIZING GEOSPATIAL DATA**
-
-**Mon, Mar 14 Effective Communication of Spatial Data**
-
-Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
-
-Readings
-
-- [https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
-- [https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
-- Wong, David WS. &quot;The modifiable areal unit problem (MAUP).&quot; _WorldMinds: Geographical perspectives on 100 problems_. Springer, Dordrecht, 2004. 571-575. [https://doi.org/10.1016/B978-008044910-4.00475-2](https://sci-hubtw.hkvisa.net/10.1016/b978-008044910-4.00475-2)
-
-**Wed, Mar 16 Building Static Maps in Python**
-
-Survey of Python libraries for plotting geospatial data on a map
-
-Readings
-
-- Norwood, Carla; Cumming, Gabriel (2012). Making Maps That Matter: Situating GIS within Community Conversations about Changing Landscapes. Cartographica: The International Journal for Geographic Information and Geovisualization, 47(1), 2–17. [doi:10.3138/carto.47.1.2](https://sci-hubtw.hkvisa.net/10.3138/carto.47.1.2)
-- Chapter [5](https://geographicdata.science/book/notebooks/05_choropleth.html) of Geographic Data Science with Python
-
-**Mon, Mar 21** _NO CLASS (Spring Break)_
-
-**Wed, Mar 23** _NO CLASS (Spring Break)_
-
-**Mon, Mar 28 Building Interactive Maps**
-
-Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
-
-Readings
-
-- [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
-- [https://www.axismaps.com/guide/what-is-a-web-map](https://www.axismaps.com/guide/what-is-a-web-map)
-- [https://www.axismaps.com/guide/should-a-map-be-interactive](https://www.axismaps.com/guide/should-a-map-be-interactive)
-- [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
-
-**Wed, Mar 30 Misc. Maps**
-
+- **Wed, Mar 30 Misc. Maps** <br>
 Visualizing big geo-data; dot-density maps;
 
-Readings
+- Readings
+  - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
+  - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
 
-- [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
-- [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
+#### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING**
 
-**MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING**
+- **Mon, Apr 4 Statistical Analysis** <br>
+  Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
 
-**Mon, Apr 4 Statistical Analysis**
+  - Readings
+    - [https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html](https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html)
+    - [http://onlinestatbook.com/2/regression/multiple\_regression.html](http://onlinestatbook.com/2/regression/multiple_regression.html)
 
-Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
+- **Wed, Apr 6 Advanced Stats/Machine Learning in Python** <br>
+  Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
 
-Readings
+  - Readings
+    - Chapters 1-3 in[Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
 
-      - [https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html](https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html)
-      - [http://onlinestatbook.com/2/regression/multiple\_regression.html](http://onlinestatbook.com/2/regression/multiple_regression.html)
+- **Mon, Apr 11 Causal Inference Methods in Urban Science** <br>
+  Deep dive into two examples from the recent literature
 
-**Wed, Apr 6 Advanced Stats/Machine Learning in Python**
+- Readings
+  - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
+  - _TBD_
 
-Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
-
-Readings
-
-- Chapters 1-3 in[Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
-
-**Mon, Apr 11 Causal Inference Methods in Urban Science**
-
-Deep dive into two examples from the recent literature
-
-Readings
-
-- Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
-- _TBD_
-
-**Wed, Apr 13 Special Topics I: Visualizing Mobility Data**
-
+- **Wed, Apr 13 Special Topics I: Visualizing Mobility Data** <br>
 Guest speaker:_TBA_
 
-**Mon, Apr 18 Special Topics II: Geospatial Data for Social Justice**
-
+- **Mon, Apr 18 Special Topics II: Geospatial Data for Social Justice** <br>
 Guest speaker: _TBA_
 
-**Wed, Apr 20 Presentations I**
+- **Wed, Apr 20 Presentations I** 
 
-**Mon, Apr 25 Presentations II**
+- **Mon, Apr 25 Presentations II** 
 
-**Wed, Apr 27 Presentations III**
+- **Wed, Apr 27 Presentations III**
+
+_____
 
 UC Berkeley sits on the territory of xučyun (Huichin), the ancestral and unceded land of the Chochenyo speaking Ohlone people, the successors of the sovereign Verona Band of Alameda County. This land was and continues to be of great importance to the Muwekma Ohlone Tribe and other familial descendants of the Verona Band.
 
