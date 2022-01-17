@@ -131,7 +131,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/CYPLAN255#module-1-fundamentals-of-programming)
 2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-2-intro-to-data-analysis-in-python)
-3. Intro to Data Visualization
+3. [Intro to Data Visualization](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-2-intro-to-data-analysis-in-python)
 4. APIs + Open Data
 5. Working with Geospatial Data
 6. Visualizing Spatial Data
@@ -170,6 +170,8 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
+----
+
 #### MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON
 
 - **Mon, Jan 31 -- Intro to Python with Jupyter Notebooks:** Notebooks and Python kernels; variables; expressions; built-in data types and structures
@@ -199,6 +201,8 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
+-----
+
 #### MODULE 3: INTRO TO DATA VISUALIZATION
 
 - **Mon, Feb 14 💘 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
@@ -223,6 +227,8 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Feb 21** _NO CLASS_ _(President&#39;s Day)_
 
+-----
+
 #### MODULE 4: OPEN DATA AND APIs
 
 - **Wed, Feb 23 -- Intro to APIs:** What&#39;s in an API; performing queries; authentication; Socrata;
@@ -240,6 +246,8 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Readings
     - [https://guides.library.illinois.edu/Geocoding](https://guides.library.illinois.edu/Geocoding)
+
+-----
 
 #### MODULE 5: WORKING WITH GEOSPATIAL DATA
 
@@ -274,6 +282,8 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://www.mapzen.com/blog/animating-transitland/](https://www.mapzen.com/blog/animating-transitland/)
     - Li, Yang, and Wei &quot;David&quot; Fan. &quot;Modeling and evaluating public transit equity and accessibility by integrating general transit feed specification data: Case study of the City of Charlotte.&quot; _Journal of Transportation Engineering, Part A: Systems_ 146.10 (2020): 04020112. Available [here](https://ascelibrary.org/doi/pdf/10.1061/JTEPBS.0000426?casa_token=FXHaQKmwO5MAAAAA:u4NJhaPXXdCbBEut0qdg7dd1d3Bahu6ygF83dWSOU2eBih0S3PrYtvEc7F11p-a7SNk7sKwg).
 
+-----
+
 #### MODULE 6: VISUALIZING GEOSPATIAL DATA**
 
 - **Mon, Mar -- 14 Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
@@ -306,6 +316,8 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
     - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
+
+-----
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING**
 
