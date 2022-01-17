@@ -51,11 +51,11 @@ Final projects will require harnessing the skills practiced in the exercises and
 Project components and due dates:
 
 1. Project proposal + initial analysis (10 pts)
-  - Due Sunday, Mar 13
+   - Due Sunday, Mar 13
 2. Final presentation (20 pts)
-  - Slides, etc. presented in class on Apr 20, 25, or 27
+   - Slides, etc. presented in class on Apr 20, 25, or 27
 3. github.io project page (45 pts)
-  - Due Monday, May 9 (first day of Finals week)
+   - Due Monday, May 9 (first day of Finals week)
 
 ### Self-Reliance, Collaboration, and Academic Integrity
 
@@ -152,30 +152,24 @@ The topics covered by this course are organized into the following seven (7) mod
       - Chapter 1 of [Think Python](https://greenteapress.com/wp/think-python-2e/)
       - Wilson et al. &quot;Best practices for scientific computing,&quot; PLOS Biology, 2014. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
 
-- **Mon, Jan 24 Intro to the Command-line**
+- **Mon, Jan 24 Intro to the Command-line** <br>
+  Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
 
-Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
+- Assignments
+  - Create a CYPLAN255 GitHub repo and push your first commit.
 
-Assignments
+- Readings:
+  - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
+  - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
-- Create a CYPLAN255 GitHub repo and push your first commit.
+  - **Weds, Jan 26 Git and GitHub** <br>
+  Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
 
-Readings:
+  - Assignments
+    - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
 
-- Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
-- [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
-
-**Weds, Jan 26 Git and GitHub**
-
-Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
-
-Assignments
-
-- Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
-
-Readings
-
-- [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+  - Readings
+    - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
 **MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON**
 
