@@ -343,9 +343,9 @@ Visualizing big geo-data; dot-density maps;
 - **Mon, Apr 11 Causal Inference Methods in Urban Science** <br>
   Deep dive into two examples from the recent literature
 
-- Readings
-  - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
-  - _TBD_
+  - Readings
+    - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
+    - _TBD_
 
 - **Wed, Apr 13 Special Topics I: Visualizing Mobility Data** <br>
 Guest speaker:_TBA_
