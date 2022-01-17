@@ -130,12 +130,12 @@ The following books and websites may be helpful resources, and we will draw mate
 The topics covered by this course are organized into the following seven (7) modules:
 
 1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/CYPLAN255#module-1-fundamentals-of-programming)
-2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-2-intro-to-data-analysis-in-python)
-3. [Intro to Data Visualization](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-3-intro-to-data-visualization)
+2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/CYPLAN255#module-2-intro-to-data-analysis-in-python)
+3. [Intro to Data Visualization](https://github.com/mxndrwgrdnr/CYPLAN255#module-3-intro-to-data-visualization)
 4. [APIs + Open Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-4-open-data-and-apis)
 5. [Working with Geospatial Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-5-working-with-geospatial-data)
-6. [Visualizing Spatial Data](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-6-visualizing-geospatial-data)
-7. [Statistical Analysis + Machine Learning](https://github.com/mxndrwgrdnr/CYPLAN255/blob/main/README.md#module-7-statistical-analysis--machine-learning)
+6. [Visualizing Spatial Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-6-visualizing-geospatial-data)
+7. [Statistical Analysis + Machine Learning](https://github.com/mxndrwgrdnr/CYPLAN255#module-7-statistical-analysis--machine-learning)
 
 ----
 
