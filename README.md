@@ -139,8 +139,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 1: FUNDAMENTALS OF PROGRAMMING
 
-- **Weds, Jan 19 Course Introduction** <br>
-  Overview of the course, expectations, prerequisites, learning objectives, assignments and projects.
+- **Weds, Jan 19 -- Course Introduction:** Overview of the course, expectations, prerequisites, learning objectives, assignments and projects.
   - Assignments
     - Install the Anaconda distribution of Python on your computer, and verify that it is working. Find your download [here](https://www.anaconda.com/products/individual).
     - Create a personal GitHub account using your Berkeley e-mail address.
@@ -152,8 +151,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapter 1 of [Think Python](https://greenteapress.com/wp/think-python-2e/)
     - Wilson et al. &quot;Best practices for scientific computing,&quot; PLOS Biology, 2014. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
 
-- **Mon, Jan 24 Intro to the Command-line** <br>
-  Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
+- **Mon, Jan 24 -- Intro to the Command-line:** Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
 
   - Assignments
     - Create a CYPLAN255 GitHub repo and push your first commit.
@@ -162,19 +160,17 @@ The topics covered by this course are organized into the following seven (7) mod
     - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
-  - **Weds, Jan 26 Git and GitHub** <br>
-  Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
+- **Weds, Jan 26 -- Git and GitHub:** Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
 
-    - Assignments
-      - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
+  - Assignments
+    - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
 
-    - Readings
-      - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+  - Readings
+    - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
 #### MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON
 
-  - **Mon, Jan 31 Intro to Python with Jupyter Notebooks** <br>
-  Notebooks and Python kernels; variables; expressions; built-in data types and structures
+- **Mon, Jan 31 -- Intro to Python with Jupyter Notebooks:** Notebooks and Python kernels; variables; expressions; built-in data types and structures
 
   - Assignments
     - Assignment 1 released (due Sun, Feb 6)
@@ -184,32 +180,26 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapters 2, 4 of[Dive Into Python 3](http://www.diveintopython3.net/)
     - Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
 
-  - **Wed, Feb 2 Programming Logic** <br>
-  Control flow in Python (conditional logic, loops, functions)
-
+- **Wed, Feb 2 Programming Logic:** Control flow in Python (conditional logic, loops, functions)
   - Readings
     - Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
     - Chapters 1, 7 of[Dive Into Python 3](http://www.diveintopython3.net/)
 
-  - **Mon, Feb 7 Data Analysis in Python**<br>
-  NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering;
-
+- **Mon, Feb 7 Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
   - Assignments
     - Assignment 2 released (due Sun, Feb 13)
 
   - Readings
     - Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
-  - **Wed, Feb 9 More Pandas** <br>
-  Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
+- **Wed, Feb 9 More Pandas:** Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
 
   - Readings
     - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
 #### MODULE 3: INTRO TO DATA VISUALIZATION
 
-- **Mon, Feb 14 💘 Data Visualization - Pt. I** <br>
-  Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
+- **Mon, Feb 14 💘 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
   - Assignments
     - Find three (3) examples of interesting data visualizations and describe in 2-3 sentences what makes each of them good, bad, or misleading. Be prepared to talk about them in class.
@@ -219,8 +209,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapter 9 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
     - [Seaborn](https://seaborn.pydata.org/tutorial.html) tutorial/documentation
 
-- **Wed, Feb 16 Data Visualization - Pt. II** <br>
-  Interactive plots, widgets, and apps.
+- **Wed, Feb 16 -- Data Visualization Pt. II:** Interactive plots, widgets, and apps.
 
   - Assignments
     - Assignment 3 released (due Tue, Feb 22)
@@ -234,8 +223,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 4: OPEN DATA AND APIs
 
-- **Wed, Feb 23 Intro to APIs** <br>
-  What&#39;s in an API; performing queries; authentication; Socrata;
+- **Wed, Feb 23 -- Intro to APIs:** What&#39;s in an API; performing queries; authentication; Socrata;
 
   - Readings
     - Red Hat guide to APIs: [here](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
@@ -246,16 +234,14 @@ The topics covered by this course are organized into the following seven (7) mod
       - [Google Maps](https://developers.google.com/maps/get-started/)
       - [Urban Institute](https://educationdata.urban.org/documentation/)
 
-- **Mon, Feb 28 APIs and Beyond** <br>
-  Geocoding; web scraping; parsing XML
+- **Mon, Feb 28 -- APIs and Beyond:** Geocoding; web scraping; parsing XML
 
   - Readings
     - [https://guides.library.illinois.edu/Geocoding](https://guides.library.illinois.edu/Geocoding)
 
 #### MODULE 5: WORKING WITH GEOSPATIAL DATA
 
-- **Wed, Mar 2 Intro to Geospatial Data Analysis** <br>
-  Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
+- **Wed, Mar 2 -- Intro to Geospatial Data Analysis:** Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
 
   - Assignments
     - Get familiar with OpenStreetMap by reading about it [here](https://wiki.osmfoundation.org/wiki/Main_Page), and contribute at least one (1) change to a Humanitarian OpenStreetMap (HOTOSM) project by following the HOTOSM [quickstart guide](https://tasks.hotosm.org/learn/quickstart).
@@ -266,8 +252,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://wiki.osmfoundation.org/wiki/Main\_Page](https://wiki.osmfoundation.org/wiki/Main_Page)
     - [https://tasks.hotosm.org/learn/quickstart](https://tasks.hotosm.org/learn/quickstart)
 
-- **Mon, Mar 7 FOSS tools for Geospatial Data Analysis** <br>
-  Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
+- **Mon, Mar 7 -- FOSS tools for Geospatial Data Analysis:** Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
 
   - Assignment
     - Project proposal assignment released (Due Sun, Mar 13)
@@ -278,8 +263,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html](https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html)
     - Chapters [6](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html), [8](https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html), and [9](https://geographicdata.science/book/notebooks/09_spatial_inequality.html) of Geographic Data Science with Python
 
-- **Wed, Mar 9 Intro to Network Analysis** <br>
-  Graph theory;GTFS; Python tools for working with networks
+- **Wed, Mar 9 -- Intro to Network Analysis:** Graph theory;GTFS; Python tools for working with networks
 
   - Readings
     - Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
@@ -290,27 +274,24 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 6: VISUALIZING GEOSPATIAL DATA**
 
-- **Mon, Mar 14 Effective Communication of Spatial Data**
-  Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
+- **Mon, Mar -- 14 Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
 
   - Readings
     - [https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
     - [https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
     - Wong, David WS. &quot;The modifiable areal unit problem (MAUP).&quot; _WorldMinds: Geographical perspectives on 100 problems_. Springer, Dordrecht, 2004. 571-575. [https://doi.org/10.1016/B978-008044910-4.00475-2](https://sci-hubtw.hkvisa.net/10.1016/b978-008044910-4.00475-2)
 
-- **Wed, Mar 16 Building Static Maps in Python**
-  Survey of Python libraries for plotting geospatial data on a map
+- **Wed, Mar 16 -- Building Static Maps in Python:** Survey of Python libraries for plotting geospatial data on a map
 
   - Readings
     - Norwood, Carla; Cumming, Gabriel (2012). Making Maps That Matter: Situating GIS within Community Conversations about Changing Landscapes. Cartographica: The International Journal for Geographic Information and Geovisualization, 47(1), 2–17. [doi:10.3138/carto.47.1.2](https://sci-hubtw.hkvisa.net/10.3138/carto.47.1.2)
     - Chapter [5](https://geographicdata.science/book/notebooks/05_choropleth.html) of Geographic Data Science with Python
 
-- **Mon, Mar 21** _NO CLASS (Spring Break)_
+- **Mon, Mar 21 --** _NO CLASS (Spring Break)_
 
-- **Wed, Mar 23** _NO CLASS (Spring Break)_
+- **Wed, Mar 23 --** _NO CLASS (Spring Break)_
 
-- **Mon, Mar 28 Building Interactive Maps** <br>
-  Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
+- **Mon, Mar 28 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
   - Readings
     - [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
@@ -318,46 +299,42 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://www.axismaps.com/guide/should-a-map-be-interactive](https://www.axismaps.com/guide/should-a-map-be-interactive)
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
 
-- **Wed, Mar 30 Misc. Maps** <br>
-Visualizing big geo-data; dot-density maps;
+- **Wed, Mar 30 -- Misc. Maps:** Visualizing big geo-data; dot-density maps;
 
-- Readings
-  - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
-  - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
+  - Readings
+    - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
+    - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING**
 
-- **Mon, Apr 4 Statistical Analysis** <br>
-  Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
+- **Mon, Apr 4 -- Statistical Analysis:** Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
 
   - Readings
     - [https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html](https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html)
     - [http://onlinestatbook.com/2/regression/multiple\_regression.html](http://onlinestatbook.com/2/regression/multiple_regression.html)
 
-- **Wed, Apr 6 Advanced Stats/Machine Learning in Python** <br>
-  Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
+- **Wed, Apr 6 -- Advanced Stats/Machine Learning in Python:** Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
 
   - Readings
     - Chapters 1-3 in[Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
 
-- **Mon, Apr 11 Causal Inference Methods in Urban Science** <br>
-  Deep dive into two examples from the recent literature
+- **Mon, Apr 11 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
 
   - Readings
     - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
     - _TBD_
 
-- **Wed, Apr 13 Special Topics I: Visualizing Mobility Data** <br>
-Guest speaker:_TBA_
+- **Wed, Apr 13 -- Special Topics I: Visualizing Mobility Data**
+  - Guest speaker: _TBA_
 
-- **Mon, Apr 18 Special Topics II: Geospatial Data for Social Justice** <br>
-Guest speaker: _TBA_
+- **Mon, Apr 18 -- Special Topics II: Geospatial Data for Social Justice**
+  - Guest speaker: _TBA_
 
-- **Wed, Apr 20 Presentations I** 
+- **Wed, Apr 20 -- Presentations I** 
 
-- **Mon, Apr 25 Presentations II** 
+- **Mon, Apr 25 -- Presentations II** 
 
-- **Wed, Apr 27 Presentations III**
+- **Wed, Apr 27 -- Presentations III**
 
 _____
 
