@@ -23,7 +23,7 @@ The goal of this course is to train students to analyze urban data, derive insig
 
 This is a &quot;hands-on&quot; course. It requires some tolerance for experimentation, self-directed trial and error, and an interest in learning to write code. If you are willing to roll up your sleeves and embrace some uncertainty, you&#39;ll learn the fundamentals of urban data analysis and visualization, and might discover an entirely new lens through which to study, plan, and design neighborhoods, cities, and regions.
 
- ### Course materials and Attendance
+ ### Course Materials and Attendance
 
 All required readings will be provided via bCourses or hyperlinks on this electronic syllabus. Lecture slides, example code, and demos/exercises will all be made available via GitHub.
 
@@ -33,12 +33,12 @@ You should plan to bring a laptop\*\* to all class sessions.
 
 \*\*NOTE TO WINDOWS USERS: Most exercises and lectures will be OS-agnostic, but command-line tools will be demonstrated in a Unix-like terminal. Windows users can use the Windows command prompt if they choose, but instructor support will be limited. Instead, I recommend installing one of the following to gain access to a Unix-like shell: [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about), [Cygwin](https://www.cygwin.com/), [Git SCM](https://gitforwindows.org/), or [PyCharm](https://www.jetbrains.com/pycharm/download/).
 
-### Resources
+### Campus Resources Related to this Course
 [Join the Course Slack Channel](https://join.slack.com/t/cp255-spring22/shared_invite/zt-11qxr2cc7-OdkKFxB3d6SpA97EJlOF2A)
 
 D-Lab:
 - [Workshops](https://dlab.berkeley.edu/training/upcoming-workshops) on Python fundamentals, geospatial analysis, intro to bash...etc.
-- [Consulting tickets (if you have specific questions)] (https://dlab.berkeley.edu/consulting)
+- [Consulting tickets (if you have specific questions)](https://dlab.berkeley.edu/consulting)
 
 ### Assignments (15 pts)
 
@@ -98,7 +98,7 @@ The following campus-wide resources are available to assist with this effort:
 - [University Health Services: Counseling and Psychological Services](https://uhs.berkeley.edu/counseling)
 - [Centers for Educational Justice and Community Engagement](https://campusclimate.berkeley.edu/students/ejce)
 
-### Additional Resources
+### Reading Material and Web Resources
 
 The following books and websites may be helpful resources, and we will draw material from many of them during the semester. (All readings assigned for class will be available online or as PDFs in bCourses.) Each piece of software we&#39;ll use also has official documentation online.
 
