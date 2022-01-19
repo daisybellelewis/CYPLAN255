@@ -342,8 +342,8 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Wed, Apr 13 -- Special Topics I: Visualizing Mobility Data**
   - Guest speaker: _TBA_
 
-- **Mon, Apr 18 -- Special Topics II: Geospatial Data for Social Justice**
-  - Guest speaker: _TBA_
+- **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism**
+  - Guest speaker: Erin McElroy (cofounder of the Anti-Eviction Mapping Project, the Radical Housing Journal, and Assistant Prof. of American Studies at UT Austin)
 
 - **Wed, Apr 20 -- Presentations I** 
 
