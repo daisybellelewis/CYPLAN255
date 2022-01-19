@@ -33,6 +33,13 @@ You should plan to bring a laptop\*\* to all class sessions.
 
 \*\*NOTE TO WINDOWS USERS: Most exercises and lectures will be OS-agnostic, but command-line tools will be demonstrated in a Unix-like terminal. Windows users can use the Windows command prompt if they choose, but instructor support will be limited. Instead, I recommend installing one of the following to gain access to a Unix-like shell: [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about), [Cygwin](https://www.cygwin.com/), [Git SCM](https://gitforwindows.org/), or [PyCharm](https://www.jetbrains.com/pycharm/download/).
 
+### Resources
+[Join the Course Slack Channel](https://join.slack.com/t/cp255-spring22/shared_invite/zt-11qxr2cc7-OdkKFxB3d6SpA97EJlOF2A)
+
+D-Lab:
+- [Workshops](https://dlab.berkeley.edu/training/upcoming-workshops) on Python fundamentals, geospatial analysis, intro to bash...etc.
+- [Consulting tickets (if you have specific questions)] (https://dlab.berkeley.edu/consulting)
+
 ### Assignments (15 pts)
 
 Students will develop skills gradually through exercises paced over the semester. These will typically involve writing some code and documenting it, using Jupyter Notebooks that can be shared and interactively run inside a web browser, and providing a writeup discussing the assignment and its results.
