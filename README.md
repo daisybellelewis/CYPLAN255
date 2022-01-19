@@ -155,7 +155,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Assignments
     - Install the Anaconda distribution of Python on your computer, and verify that it is working. Find your download [here](https://www.anaconda.com/products/individual).
     - Create a personal GitHub account using your Berkeley e-mail address.
-    - Via bCourses, submit links to three (3) examples of interesting public/open datasets that you think you or your fellow students might be interested in exploring in the context of this class. In 2-3 sentences, describe their relevance to topics in transportation, housing, land use, urban design, etc. 2-3 sentences. Show us something we haven&#39;t seen before – the American Community Survey doesn&#39;t count!
+    - Via bCourses, submit links to three (3) examples of interesting public/open datasets that you think you or your fellow students might be interested in exploring in the context of this class. In 2-3 sentences, describe their relevance to topics in transportation, housing, land use, urban design, etc. Show us something we haven&#39;t seen before – the American Community Survey doesn&#39;t count!
   - Readings
     - Why Python:
       - [http://lorenabarba.com/blog/why-i-push-for-python/](http://lorenabarba.com/blog/why-i-push-for-python/)
