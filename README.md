@@ -1,9 +1,10 @@
 # CYPLAN255
 course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2022
 
-Please fill out the [Pre-Semester Survey](https://forms.gle/t7WZFLVF7EbEBE3t7)!
+## Getting started
 
-skip to [class schedule](https://github.com/mxndrwgrdnr/CYPLAN255#topics--course-schedule)
+- Please fill out the [Pre-Semester Survey](https://forms.gle/t7WZFLVF7EbEBE3t7)!
+- Skip to [class schedule](https://github.com/mxndrwgrdnr/CYPLAN255#topics--course-schedule)
 
 ## Syllabus
 Department of City and Regional Planning, U.C. Berkeley
