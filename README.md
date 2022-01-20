@@ -281,9 +281,15 @@ The topics covered by this course are organized into the following seven (7) mod
     - [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
     - [https://www.osgeo.org/about/what-is-open-source/](https://www.osgeo.org/about/what-is-open-source/)
     - [https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html](https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html)
+
+- **Wed, Mar 9 -- Advanced Spatial Statistics with PySAL:**
+
+  - Guest speaker: Irene!
+
+  - Readings
     - Chapters [6](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html), [8](https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html), and [9](https://geographicdata.science/book/notebooks/09_spatial_inequality.html) of Geographic Data Science with Python
 
-- **Wed, Mar 9 -- Intro to Network Analysis:** Graph theory;GTFS; Python tools for working with networks
+- **Mon, Mar 14 -- Intro to Network Analysis:** Graph theory;GTFS; Python tools for working with networks
 
   - Readings
     - Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
@@ -296,24 +302,24 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 6: VISUALIZING GEOSPATIAL DATA
 
-- **Mon, Mar -- 14 Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
+- **Wed, Mar 16 -- Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
 
   - Readings
     - [https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
     - [https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
     - Wong, David WS. &quot;The modifiable areal unit problem (MAUP).&quot; _WorldMinds: Geographical perspectives on 100 problems_. Springer, Dordrecht, 2004. 571-575. [https://doi.org/10.1016/B978-008044910-4.00475-2](https://sci-hubtw.hkvisa.net/10.1016/b978-008044910-4.00475-2)
 
-- **Wed, Mar 16 -- Building Static Maps in Python:** Survey of Python libraries for plotting geospatial data on a map
+- **Mon, Mar 21 --** _NO CLASS (🏄 Spring Break 🏄)_
+
+- **Wed, Mar 23 --** _NO CLASS (🏄 Spring Break 🏄)_
+
+- **Mon, Mar 28 --Building Static Maps in Python:** Survey of Python libraries for plotting geospatial data on a map
 
   - Readings
     - Norwood, Carla; Cumming, Gabriel (2012). Making Maps That Matter: Situating GIS within Community Conversations about Changing Landscapes. Cartographica: The International Journal for Geographic Information and Geovisualization, 47(1), 2–17. [doi:10.3138/carto.47.1.2](https://sci-hubtw.hkvisa.net/10.3138/carto.47.1.2)
     - Chapter [5](https://geographicdata.science/book/notebooks/05_choropleth.html) of Geographic Data Science with Python
 
-- **Mon, Mar 21 --** _NO CLASS (Spring Break)_
-
-- **Wed, Mar 23 --** _NO CLASS (Spring Break)_
-
-- **Mon, Mar 28 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
+- **Wed, Mar 30 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
   - Readings
     - [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
@@ -321,7 +327,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://www.axismaps.com/guide/should-a-map-be-interactive](https://www.axismaps.com/guide/should-a-map-be-interactive)
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
 
-- **Wed, Mar 30 -- Misc. Maps:** Visualizing big geo-data; dot-density maps;
+- **Mon, Apr 4 -- Misc. Maps:** Visualizing big geo-data; dot-density maps;
 
   - Readings
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
@@ -331,34 +337,34 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
 
-- **Mon, Apr 4 -- Statistical Analysis:** Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
+- **Wed, Apr 6 -- Statistical Analysis:** Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels
 
   - Readings
     - [https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html](https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html)
     - [http://onlinestatbook.com/2/regression/multiple\_regression.html](http://onlinestatbook.com/2/regression/multiple_regression.html)
 
-- **Wed, Apr 6 -- Advanced Stats/Machine Learning in Python:** Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
+- **Mon, Apr 11 -- Advanced Stats/Machine Learning in Python:** Random forest-based regression in scikit-learn; clustering algorithms; discrete choice theory and models
 
   - Readings
-    - Chapters 1-3 in[Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
+    - Chapters 1-3 in [Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
 
-- **Mon, Apr 11 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
+- **Wed, Apr 13 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
 
   - Readings
     - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
     - _TBD_
 
-- **Wed, Apr 13 -- Special Topics I: Visualizing Mobility Data**
+- **Mon, Apr 18 -- Special Topics I: Visualizing Mobility Data**
   - Guest speaker: _TBA_
 
-- **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism**
+- **Wed, Apr 20 -- Special Topics II: Geospatial Data Activism**
   - Guest speaker: Erin McElroy (cofounder of the Anti-Eviction Mapping Project, the Radical Housing Journal, and Assistant Prof. of American Studies at UT Austin)
 
-- **Wed, Apr 20 -- Presentations I** 
+- **Mon, Apr 25 -- Presentations I** 
 
-- **Mon, Apr 25 -- Presentations II** 
+- **Wed, Apr 27 -- Presentations II** 
 
-- **Wed, Apr 27 -- Presentations III**
+- **??? -- Presentations III**
 
 _____
 
