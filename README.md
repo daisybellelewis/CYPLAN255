@@ -171,6 +171,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Readings:
     - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
+    - Sections 1.1 and 1.3 of [Pro Git](https://git-scm.com/book/en/v2) by Chacon and Straub
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
 - **Weds, Jan 26 -- Git and GitHub:** Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
