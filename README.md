@@ -199,7 +199,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Readings
     - Chapter 3 of [Python for Data Analysis](https://github.com/wesm/pydata-book)
-    - Chapters 2, 4 of[Dive Into Python 3](http://www.diveintopython3.net/)
+    - Chapters 2, 4 of [Dive Into Python 3](http://www.diveintopython3.net/)
     - Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
 
 - **Wed, Feb 2 Programming Logic:** Control flow in Python (conditional logic, loops, functions)
