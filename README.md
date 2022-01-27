@@ -4,6 +4,7 @@ course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2022
 ## Getting started
 
 - Please fill out the [Pre-Semester Survey](https://forms.gle/t7WZFLVF7EbEBE3t7)!
+- Check out the [Wiki](https://github.com/mxndrwgrdnr/CYPLAN255/wiki)!
 - Skip to [class schedule](https://github.com/mxndrwgrdnr/CYPLAN255#topics--course-schedule)
 
 ## Syllabus
