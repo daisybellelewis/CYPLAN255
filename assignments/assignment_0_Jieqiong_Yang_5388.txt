@@ -1,0 +1,16 @@
+Please type your name below:
+1.	Green View Index data
+API, Download
+Description: The open sources python code uses Google Street View panoramas to create the Green View Index to evaluate the tree canopy of a city. I’d like to try to generate the GVI of San Francisco.
+Links to data: https://github.com/mittrees/Treepedia_Public
+
+2.	Street Tree List
+API, Download
+Description: The list of maintained street trees including: Planting date, species,
+and location in San Francisco.
+Links to data: https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq
+
+3.	Park Scores 2005-2014 in San Francisco 
+Download
+Description: Park evaluation scores collected by SF Controller's Office.
+Links to data: https://data.sfgov.org/Culture-and-Recreation/Park-Scores-2005-2014/fjq8-r8ws/data
