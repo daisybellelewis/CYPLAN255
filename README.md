@@ -207,14 +207,14 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
     - Chapters 1, 7 of [Dive Into Python 3](http://www.diveintopython3.net/)
 
-- **Mon, Feb 14 Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
+- **Mon, Feb 14 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
   - Assignments
     - Assignment 2 released (due Sun, Feb 20)
 
   - Readings
     - Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
-- **Wed, Feb 16 More Pandas:** Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
+- **Wed, Feb 16 -- More Pandas:** Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
 
   - Readings
     - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
@@ -225,7 +225,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Feb 21** _NO CLASS_ _(President&#39;s Day)_
 
-- **Wed, Feb 23 💘 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
+- **Wed, Feb 23 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
   - Exercises
     - Find three (3) examples of interesting data visualizations and describe in 2-3 sentences what makes each of them good, bad, or misleading. Be prepared to talk about them in class.
