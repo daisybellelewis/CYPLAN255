@@ -184,15 +184,10 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
-----
-
-#### MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON
-
-- **Mon, Jan 31 -- Intro to Python with Jupyter Notebooks:** Notebooks and Python kernels; variables; expressions; built-in data types and structures
-
+- **Mon, Jan 31 -- Python at the Command-line** Anaconda distro; Python vs. IPython vs. Jupyter; virtual environments; intro to the Jupyter Notebook
   - Assignments
-    - Assignment 1 released (due Sun, Feb 6)
-
+    - Assignment 1 released (due Sun, Feb 6) 
+ 
   - Exercises
     - Re-read and work your way through "notebooks/lecture_03_intro_python_jupyter.ipynb"
     - Continue to work your way through the GitHub Pages website tutorial.
@@ -202,14 +197,28 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapters 2, 4 of [Dive Into Python 3](http://www.diveintopython3.net/)
     - Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
 
-- **Wed, Feb 2 Programming Logic:** Control flow in Python (conditional logic, loops, functions)
+- **Weds, Feb 2 -- The Python Standard Library** Variables, expressions, and assignment; built-in functions and data types; the `math` module; working with strings and lists and dicts.
+  - Readings
+     - The Python Standard Library from the [Official Python docs](https://docs.python.org/3/library/index.html)
+     - Chained assignment vs. copying from the Towards Data Science [blog](https://towardsdatascience.com/assignment-shallow-or-deep-a-story-about-pythons-memory-management-b8fad87bfa6c)
+     - Jean Mark Gawron's [Intro to Python](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/Python_introduction/Python_introduction.html)
+
+----
+
+#### MODULE 2: INTRO TO DATA ANALYSIS IN PYTHON
+
+- **Mon, Feb 7 -- Programming Logic:** Procedural programming; control flow in Python (conditional logic, loops, functions)
   - Readings
     - Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
     - Chapters 1, 7 of [Dive Into Python 3](http://www.diveintopython3.net/)
 
-- **Mon, Feb 14 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
+- **Wed, Feb 9 -- Object-oriented Programming:** Modules, classes, methods, and functions; namespaces and scopes; `lambda` functions and `map()` for iteration
+  - Readings
+    - Official Python docs on [Classes](https://docs.python.org/3/tutorial/classes.html)
   - Assignments
-    - Assignment 2 released (due Sun, Feb 20)
+    - Assignment 2 released (due Tues, Feb 15)
+
+- **Mon, Feb 14 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
 
   - Readings
     - Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)
@@ -218,12 +227,18 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Readings
     - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
+  - Exercises
+    - Spend 2-3 hours working through notebooks 7 and 8 on your own
 
 -----
 
 #### MODULE 3: INTRO TO DATA VISUALIZATION
 
 - **Mon, Feb 21** _NO CLASS_ _(President&#39;s Day)_
+  - Exercises
+    - Spend 2-3 hours working through notebooks 7 and 8 on your own
+  - Assignments
+    - Assignment 3 released (due Sunday, Feb 27)
 
 - **Wed, Feb 23 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
@@ -237,15 +252,10 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Feb 28 -- Data Visualization Pt. II:** Interactive plots, widgets, and apps.
 
-  - Assignments
-    - Assignment 3 released (due Sun, Mar 6)
-
   - Readings
     - Interactive Bokeh [tutorials](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-th9hef96/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
     - [Plotly](https://plotly.com/python/) tutorial/documentation
     - Streamlit [tutorial](https://medium.com/analytics-vidhya/web-application-in-10-minutes-with-streamlit-99685e3350e0)
-
-
 
 -----
 
