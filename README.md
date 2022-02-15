@@ -216,7 +216,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - Official Python docs on [Classes](https://docs.python.org/3/tutorial/classes.html)
   - Assignments
-    - Assignment 2 released (due Tues, Feb 15)
+    - Assignment 2 released (due Tues, Feb 20)
 
 - **Mon, Feb 14 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
 
