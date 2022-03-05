@@ -345,8 +345,8 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Wed, Apr 6 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
-  - Assignments
-    - Bonus notebook on visualizing big geo data
+  - Exercises
+    - Work through the bonus notebook on visualizing big geo data
 
   - Readings
     - [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
@@ -355,12 +355,6 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
     - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
-
-- **Mon, Apr 11 -- Misc. Maps:** Visualizing big geo-data; dot-density maps;
-
-  - Readings
-    
-
 -----
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
