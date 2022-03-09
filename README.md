@@ -65,7 +65,7 @@ Project components and due dates:
 1. Project proposal + initial analysis (10 pts)
    - Due Sunday, Mar 13
 2. Final presentation (20 pts)
-   - Slides, etc. presented in class on Apr 20, 25, or 27
+   - Slides, etc. presented during the last week of class.
 3. github.io project page (45 pts)
    - Due Monday, May 9 (first day of Finals week)
 
