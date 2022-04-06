@@ -367,10 +367,10 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapters 1-3 in [Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
 
 
-- **Wed, Apr 13 -- Special Topics I: Visualizing Transit Data
+- **Wed, Apr 13 -- Special Topics I: Visualizing Transit Data**
   - Guest speaker: Kuan Butts (Mapbox)
   
-- **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism****
+- **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism**
   - Guest speaker: Erin McElroy (cofounder of the Anti-Eviction Mapping Project, the Radical Housing Journal, and Assistant Prof. of American Studies at UT Austin) and Mary Shi (Ph.D. Candidate in Sociology at Cal)
 
 - **Wed, Apr 20 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
