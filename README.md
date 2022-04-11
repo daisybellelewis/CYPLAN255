@@ -359,13 +359,12 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
 
-- **Mon, Apr 11 -- Statistical Analysis and ML in Python:** Choosing the right algorithm; identification vs. prediction; sampling from univariate probability distributions; OLS multiple regression with statsmodels; discrete choice theory and multinomial logistic regression
-
+- **Mon, Apr 11 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
   - Readings
-    - [https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html](https://pdf4pro.com/view/introduction-to-multiple-regression-biddle-23f2dd.html)
-    - [http://onlinestatbook.com/2/regression/multiple\_regression.html](http://onlinestatbook.com/2/regression/multiple_regression.html)
-    - Chapters 1-3 in [Discrete Choice Models with Simulation](https://eml.berkeley.edu/books/choice2.html)
-
+    - Greenstone, M. & Gallagher, J. _Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program_. No. w11790. National Bureau of Economic Research, 2005. Available [here](https://www.nber.org/system/files/working_papers/w11790/w11790.pdf).
+    - Lawrence, D.F. et al. _Stepping towards causation: Do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?_ Social Science and Medicine, 2007. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0277953607003139?casa_token=SaY3vv_H_2AAAAAA:uXwwx-tJd2Tp5cR5E89wXPQbtLXvNDudyf8mI00mzt_op2MbIJRc5MXjApn7-KCZnbHgsMUq)
+    - Krizek, Kevin. _Residential Relocation and Changes in Urban Travel: Does Neighborhood-Scale Urban Form Matter?_ Journal of the American Planning Association, 2003. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/01944360308978019?casa_token=F6HCUW4F7DgAAAAA:oOXwalykvP1s5fvkwZBI7BtU8qP0YhE9uygGGYEThdbdBVLWE8m_NqMjSWd26cnYY4vgPpJ_Wz0).
+    - Gardner, Max. _The Effect of Rent Control on Eviction Rates: Causal Evidence from San Francisco_. Forthcoming, 2022. 
 
 - **Wed, Apr 13 -- Special Topics I: Visualizing Transit Data**
   - Guest speaker: Kuan Butts (Mapbox)
@@ -373,18 +372,11 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism**
   - Guest speaker: Erin McElroy (cofounder of the Anti-Eviction Mapping Project, the Radical Housing Journal, and Assistant Prof. of American Studies at UT Austin) and Mary Shi (Ph.D. Candidate in Sociology at Cal)
 
-- **Wed, Apr 20 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
-  - Readings
-    - Currie, Janet, et al. _Do housing prices reflect environmental health risks? Evidence from more than 1600 toxic plant openings and closings_. No. w18700. National Bureau of Economic Research, 2013. Available [here](https://www.nber.org/system/files/working_papers/w18700/w18700.pdf).
-    - Lawrence, D.F. et al. _Stepping towards causation: Do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?_ Social Science and Medicine, 2007. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0277953607003139?casa_token=SaY3vv_H_2AAAAAA:uXwwx-tJd2Tp5cR5E89wXPQbtLXvNDudyf8mI00mzt_op2MbIJRc5MXjApn7-KCZnbHgsMUq)
-    - Krizek, Kevin. _Residential Relocation and Changes in Urban Travel: Does Neighborhood-Scale Urban Form Matter?_ Journal of the American Planning Association, 2003. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/01944360308978019?casa_token=F6HCUW4F7DgAAAAA:oOXwalykvP1s5fvkwZBI7BtU8qP0YhE9uygGGYEThdbdBVLWE8m_NqMjSWd26cnYY4vgPpJ_Wz0).
-    - Gardner, Max. _The Effect of Rent Control on Eviction Rates: Causal Evidence from San Francisco_. Forthcoming, 2022. 
+- **Wed, Apr 20 -- Presentations I**
 
-- **Mon, Apr 25 -- Presentations I** 
+- **Mon, Apr 25 -- Presentations II** 
 
-- **Wed, Apr 27 -- Presentations II** 
-
-- **??? -- Presentations III**
+- **Wed, Apr 27 -- Presentations III** 
 
 _____
 
